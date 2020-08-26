@@ -1,4 +1,5 @@
 ls -ltr
 pwd
 echo "Hello Madhu"
-
+echo "dev branch"
+echo "echo from master"
